@@ -1,5 +1,5 @@
 (defproject alloy.terminator/terminator-core "0.0.1-SNAPSHOT"
-	:plugins [[lein-modules "0.3.11"] [lein-cljsbuild "1.1.0"]]
+	:plugins [[lein-modules "0.3.11"] [lein-cljsbuild "1.1.1"]]
 	:description "FIXME: write description"
 	:dependencies [[alloy/anvil-clojure "0.0.1-SNAPSHOT"]]
 	:source-paths ["src/clj" "src/cljs" "src/cljc"]

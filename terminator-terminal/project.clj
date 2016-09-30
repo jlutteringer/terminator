@@ -1,5 +1,5 @@
 (defproject alloy.terminator/terminator-terminal "0.0.1-SNAPSHOT"
-	:plugins [[lein-modules "0.3.11"] [lein-cljsbuild "1.1.0"]]
+	:plugins [[lein-modules "0.3.11"] [lein-cljsbuild "1.1.1"]]
 	:description "FIXME: write description"
 	:dependencies [[alloy.terminator/terminator-core :version]]
 	:source-paths ["src"]
